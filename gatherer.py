@@ -36,9 +36,7 @@ def save_to_file(strings, filename):
 		donecheck = requests.get(url)
 		if donecheck.status_code == 400: # 401 to test
 			save_to_file([random_api_key + " "], "hunter_key.txt")
-			print()
 			print("\033[1mKey picked and saved to 'hunter_key.txt'\033[0m")
-			print()
 		if donecheck.status_code == 401:
 			print("No user found for the API key supplied (authentication_failed 401)")
 		if donecheck.status_code == 429:
