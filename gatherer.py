@@ -56,6 +56,7 @@ def keygen_unique(number_of_symbols):
 		elif donecheck.status_code == 403:
 			print("\033[1mForbidden (403)\033[0m")
 			while donecheck.status_code == 403:
+				time.sleep(0.5)
 				url = "https://api.hunter.io/v2/email-finder?domain=gmail.com&first_name=test&last_name=test&api_key=" + unique_key
 	except KeyboardInterrupt:
 		print()
