@@ -13,4 +13,4 @@ Notify me on e-mail if you meet any errors, I'll be thankful.
 
 Support me:
 knivedschizo@proton.me (PayPal)
-buymeacoffee.com/knivedschi6
+www.buymeacoffee.com/knivedschi6
