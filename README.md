@@ -12,5 +12,5 @@ Requires Python3.
 Notify me on e-mail if you meet any errors, I'll be thankful.
 
 Support me:
-knivedschizo@proton.me (PayPal)
+knivedschizo@proton.me (PayPal),
 www.buymeacoffee.com/knivedschi6
