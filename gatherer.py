@@ -11,7 +11,6 @@ class colour:
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print(colour.Magenta + "\033[1m▒▒▒▒▒ GATHERER ▒▒▒▒▒\033[0m")
-print(colour.Magenta + "www.buymeacoffee.com/knivedschi6")
 print()
 
 # FUNCTIONS
