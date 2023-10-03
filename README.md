@@ -9,7 +9,7 @@ Imitation of API key generator for Hunter.io. Added hashlib to generate unique c
 Tested on Kali Linux and Windows 10.
 Requires Python3.
 
-Notify me on e-mail if you meet any errors, I'll be thankful.
+Contact me if you meet any errors or have any ideas, I'll be thankful.
 
 Support me:
 www.buymeacoffee.com/fairycorekvlt
